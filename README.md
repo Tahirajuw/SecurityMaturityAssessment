@@ -4,7 +4,7 @@ A lightweight, browser-based tool that scores an organisation's security posture
 
 ## What it does
 
-- Asks 24 questions across the six NIST CSF 2.0 functions: Govern, Identify, Protect, Detect, Respond and Recover.
+- Asks 48 questions across the six NIST CSF 2.0 functions: Govern, Identify, Protect, Detect, Respond and Recover.
 - Scores each answer from 0 (not in place) to 4 (optimised), weighted by impact.
 - Assigns an overall maturity level from Level 1 (Initial) to Level 5 (Optimised).
 - Applies critical-control caps: if a critical control such as MFA, backups or an incident response plan is below Managed, the overall level is capped.
